@@ -1,0 +1,3 @@
+C:\Users\vaivai\source\repos\Correção-Prova\Correção-Prova\obj\Debug\netcoreapp2.1\Correção-Prova.csproj.CoreCompileInputs.cache
+C:\Users\vaivai\source\repos\Correção-Prova\Correção-Prova\obj\Debug\netcoreapp2.1\Correção-Prova.AssemblyInfoInputs.cache
+C:\Users\vaivai\source\repos\Correção-Prova\Correção-Prova\obj\Debug\netcoreapp2.1\Correção-Prova.AssemblyInfo.cs
